@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PlannerApplication<planner>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.rocketseat.planner.PlannerApplication",
+            "projectName": "planner",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
